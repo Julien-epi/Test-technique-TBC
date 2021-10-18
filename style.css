@@ -1,0 +1,60 @@
+img {
+    height: 100px;
+    width: 100px;
+    padding: 5%;
+    display: flex;
+}
+
+.champ {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#contain {
+    /* margin: 4%; */
+    display: flex;
+    /* width: 100%; */
+    /* justify-content: space-around; */
+    /* align-items: center; */
+    height: 100%;
+    border: 2px solid black;
+}
+
+#ff1, #ff2, #ff3, #ff4{
+    border: 2px solid black;
+    width: 20%;
+}
+
+#ff1 {
+    margin: 2px;
+}
+#ff2 {
+    margin: 2px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    margin-left: 5%;
+    
+}
+#ff3 {
+    margin: 2px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    margin-left: 5%;
+}
+
+#ff4 {
+    margin: 2px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    margin-left: 5%;
+}
+
+h3 {
+    display: flex;
+    justify-content: space-around;
+    /* flex-direction: column; */
+}
