@@ -153,32 +153,7 @@ const data =
                     //     document.getElementById('ff3').style.backgroundColor = 'blue';
                     // }
                  })
-            // })
-
-                // fetch(urlDirector)
-                //   .then(res => res.json())
-                //   .then((data) =>  { 
-                      
-                //     data.results.forEach(item => {
-
-                //         console.log(element.director)
-
-
-                //         let c4 = document.getElementById('ff4')
-                        
-                //         let realise = document.createElement('p');
-                        
-
-                //         realise.innerHTML = element.director;
-                        
-
-                //         contain.append(c4);
-
-
-                //         c4.appendChild(director);
-
-                //       })
-                //   })
+            
     }
 
     film(data);
