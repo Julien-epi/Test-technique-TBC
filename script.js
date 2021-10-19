@@ -129,8 +129,8 @@ const data =
 
                     
                     let img = document.createElement('img');
-                    let titre = document.createElement('h3');
-                    let date = document.createElement('p');
+                    let titre = document.createElement('td');
+                    let date = document.createElement('td');
     
                     // Insert value
                     titre.innerHTML = element.title;
