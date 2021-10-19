@@ -20,7 +20,7 @@ const url = 'https://imdb-api.com/en/API/IMDbList/k_o11b3dd8/ls068935667';
                     // console.log(element.year)
                     // console.log(element.description)
 
-                    // Creation tableau par film
+                    // Creation tableau 
                     let contain = document.getElementById('contain')
 
                     let c1 = document.getElementById('ff1')

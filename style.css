@@ -8,27 +8,18 @@ img {
 .head {
     display: flex;
     justify-content: space-around;
-    z-index: 100;
 }
 
 td {
     display: flex;
     justify-content: space-around;
-    align-items: center;
 }
 
 #contain {
-    /* margin: 2%; */
     display: flex;
-    /* justify-content: space-around; */
-    /* align-items: center; */
     border: 2px solid black;
 }
 
-/* #ff1, #ff2, #ff3 {
-    border: 2px solid black; 
-    width: 20%;
-} */
 
 #ff1 {
     margin: 0;
@@ -56,11 +47,5 @@ td {
     display: flex;
     justify-content: space-around;
     flex-direction: column;
-    margin-left: 21%;
+    margin-left: 22%;
 } 
-
-/* h3 {
-    display: flex;
-    justify-content: space-around;
-    flex-direction: column; 
-} */
